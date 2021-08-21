@@ -1,0 +1,11 @@
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\C# Advance\Project_Prototyping(Codes)\Project_Prototyping\bin\Debug\Project_Prototyping.exe.config
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\C# Advance\Project_Prototyping(Codes)\Project_Prototyping\bin\Debug\Project_Prototyping.exe
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\C# Advance\Project_Prototyping(Codes)\Project_Prototyping\bin\Debug\Project_Prototyping.pdb
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\C# Advance\Project_Prototyping(Codes)\Project_Prototyping\obj\Debug\Project_Prototyping.csprojAssemblyReference.cache
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\C# Advance\Project_Prototyping(Codes)\Project_Prototyping\obj\Debug\Project_Prototyping.Form1.resources
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\C# Advance\Project_Prototyping(Codes)\Project_Prototyping\obj\Debug\Project_Prototyping.Properties.Resources.resources
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\C# Advance\Project_Prototyping(Codes)\Project_Prototyping\obj\Debug\Project_Prototyping.csproj.GenerateResource.cache
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\C# Advance\Project_Prototyping(Codes)\Project_Prototyping\obj\Debug\Project_Prototyping.csproj.CoreCompileInputs.cache
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\C# Advance\Project_Prototyping(Codes)\Project_Prototyping\obj\Debug\Project_Prototyping.exe
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\C# Advance\Project_Prototyping(Codes)\Project_Prototyping\obj\Debug\Project_Prototyping.pdb
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\C# Advance\Project_Prototyping(Codes)\Project_Prototyping\obj\Debug\Project_Prototyping.Form2.resources
